@@ -1,12 +1,13 @@
 <h2>Hi there 👋</h2>
 
 <h4>I'm Víctor. A product guy from Madrid, Spain 🇪🇸</h4>
+<p>When I was 12 years old, I started coding my first web projects. What started as a hobby, ended up being my passion. Since then, I have worked as a developer, designer and product manager. My mixed profile makes me understand and participate in the whole process of creating digital products. I am obsessed with continuously learning, expanding my skills and becoming a better professional.</p>
 
 <h3>Highlights</h3>
 <ul>
   <li>🔭 I’m currently working at <strong>Adtuo</strong></li>
   <li>🌱 I’m currently learning: Advanced product analytics.</li>
-  <li>💬 Ask me about: product design, design systems, user interface development, web performance.</li>
+  <li>💬 Ask me about: all related with digital products, design systems, user interface development and Javascript.</li>
   <li>📫 Reach me: <a href="https://www.linkedin.com/in/arenasv86/" target="_blank">linkedin.com/in/arenasv86</a></li>
   <li>😄 Pronouns: He/Him</li>
   <li>⚡ Fun fact: I love to watch horror movies 🧟</li>
