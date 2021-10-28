@@ -5,7 +5,7 @@
 
 <h3>Highlights</h3>
 <ul>
-  <li>🔭 I’m currently working at <strong>Adtuo</strong></li>
+  <!--<li>🔭 I’m currently working at <strong>Adtuo</strong></li>-->
   <li>🌱 I’m currently learning: Advanced product analytics.</li>
   <li>💬 Ask me about: all related with digital products, design systems, user interface development and Javascript.</li>
   <li>📫 Reach me: <a href="https://www.linkedin.com/in/arenasv86/" target="_blank">linkedin.com/in/arenasv86</a></li>
