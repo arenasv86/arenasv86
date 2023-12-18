@@ -57,6 +57,3 @@
   <img alt="Next.JS" src="https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
-
-<h3>Github Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=arenasv86&show_icons=true&count_private=true" alt="arenasv86 stats" />
